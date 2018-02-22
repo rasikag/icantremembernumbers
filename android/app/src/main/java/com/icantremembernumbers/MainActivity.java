@@ -1,6 +1,7 @@
 package com.icantremembernumbers;
 
 import com.facebook.react.ReactActivity;
+import org.devio.rn.splashscreen.SplashScreenReactPackage;
 
 public class MainActivity extends ReactActivity {
 
