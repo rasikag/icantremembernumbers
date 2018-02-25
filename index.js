@@ -1,4 +1,6 @@
-import { AppRegistry } from 'react-native';
-import App from './App';
+'use strict';
 
-AppRegistry.registerComponent('icantremembernumbers', () => App);
+import { AppRegistry } from 'react-native';
+import TodoApp from './components/todo-app';
+
+AppRegistry.registerComponent('icantremembernumbers', () => TodoApp);
